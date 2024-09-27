@@ -32,3 +32,7 @@ The **Simon Says Game** is a memory-based game where players are tasked with fol
 - Introduce a difficulty setting to control the speed of the sequence flashes.
 
 This game is a fun, engaging way to test and improve your memory skills!
+
+### Demo Video
+Watch the gameplay in action by checking out the Simon Says Game demo video, which showcases the sequence generation, user interaction, and level progression.
+https://github.com/user-attachments/assets/8867edd4-29f2-4e41-bc32-d8ca8848de58
