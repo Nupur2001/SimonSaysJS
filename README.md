@@ -36,3 +36,6 @@ This game is a fun, engaging way to test and improve your memory skills!
 ### Demo Video
 Watch the gameplay in action by checking out the Simon Says Game demo video, which showcases the sequence generation, user interaction, and level progression.
 https://github.com/user-attachments/assets/8867edd4-29f2-4e41-bc32-d8ca8848de58
+
+### Play the Game Here:
+nupur2001.github.io/SimonSaysJS/
